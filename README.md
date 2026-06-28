@@ -30,10 +30,12 @@ I write about what I build on the [blog](https://antoniojerkovic.com/blog), and 
 
 | Project | What it is | Built with |
 | :--- | :--- | :--- |
-| **[Portfolio](https://antoniojerkovic.com)** | This site. Scroll-driven and animation-heavy, with headless content and a custom cursor, and still fast. | `Next.js` `Sanity` `GSAP` `Lenis` |
-| **Even Steven** | Cross-platform app for splitting group expenses. Real-time sync, push notifications, deep-link invites, test-driven with Jest. | `React Native` `Expo` `Supabase` `Jest` |
-| **Habit Flow** | Offline-first habit tracker and weekly planner. No backend, all data stays on your device. Streaks, a monthly grid, installable. | `React` `TypeScript` `Vite` `PWA` |
-| **Podcast Summarizer** | Paste a YouTube podcast link, get back a structured article with sections, quotes, and tags. | `Next.js` `Supabase` `Perplexity AI` |
+| **[Portfolio](https://antoniojerkovic.com)** | My own site, where I showcase my projects and write blogs. Built with a CMS so I can add and update content myself. | `Next.js` `Sanity` `GSAP` `Lenis` |
+| **[NORDHEM](https://antoniojerkovic.com/projects/nordhem)** | A Nordic home-goods store built around real search engineering: Elasticsearch relevance tuning, semantic and hybrid search, and a Postgres fallback so the shop keeps working if search goes down. | `Next.js` `Elasticsearch` `PostgreSQL` |
+| **[Podcast Summarizer](https://antoniojerkovic.com/projects/podcast-summarizer)** | Paste a YouTube podcast link and get back a clean, structured article with sections, quotes, and tags. | `Next.js` `Supabase` `Perplexity AI` |
+| **[Even Steven](https://antoniojerkovic.com/projects/even-steven)** | Cross-platform app for splitting group expenses. Real-time sync, push notifications, deep-link invites, test-driven with Jest. | `React Native` `Expo` `Supabase` `Jest` |
+| **[Habit Flow](https://antoniojerkovic.com/projects/habit-flow)** | Offline-first habit tracker and weekly planner. No backend, all data stays on your device. Streaks, a monthly grid, installable. | `React` `TypeScript` `Vite` `PWA` |
+| **[My Recipes App](https://antoniojerkovic.com/projects/recipe-app)** | A recipe library with a built-in AI cook. Get meal ideas, import any recipe from a link or text, or generate a full one with a photo. Runs on your own API key. | `Next.js` `Drizzle` `Postgres` `Clerk` |
 
 > Full case studies on the [portfolio](https://antoniojerkovic.com/projects).
 
@@ -69,6 +71,7 @@ I write about what I build on the [blog](https://antoniojerkovic.com/blog), and 
 
 **Testing, design & tooling**
 <p>
+<img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=black" height="28">
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="28">
@@ -84,8 +87,6 @@ I write about what I build on the [blog](https://antoniojerkovic.com/blog), and 
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=kizza00232jera&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=kizza00232jera&hide_border=true&theme=tokyonight&layout=compact&langs_count=6" />
-
-<img width="98%" src="https://streak-stats.demolab.com/?user=kizza00232jera&theme=tokyonight&hide_border=true&date_format=M+j%5B%2C+Y%5D&mode=daily" alt="GitHub streak" />
 
 </div>
 
