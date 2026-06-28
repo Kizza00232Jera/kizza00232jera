@@ -1,0 +1,23 @@
+# Save this as: .github/workflows/blog-post-workflow.yml
+# in your PROFILE repo (Kizza00232Jera/kizza00232jera).
+# It reads your site's RSS feed and rewrites the BLOG-POST-LIST block
+# in your profile README once a day (and when you trigger it manually).
+
+name: Latest blog posts
+on:
+  schedule:
+    - cron: "0 6 * * *"   # daily at 06:00 UTC
+  workflow_dispatch:       # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://antoniojerkovic.com/feed.xml"
+          max_post_count: 5
