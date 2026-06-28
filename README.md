@@ -29,6 +29,11 @@ I write about what I build on the [blog](https://antoniojerkovic.com/blog), and 
 **Latest from the blog**
 
 <!-- BLOG-POST-LIST:START -->
+- [That sideways scroll on your phone? Find and fix it from the console](https://antoniojerkovic.com/blog/find-and-fix-horizontal-scroll-from-the-console)
+- [Core Web Vitals, PageSpeed, and SEO: a developer’s guide to web performance](https://antoniojerkovic.com/blog/core-web-vitals-pagespeed-seo-guide)
+- [npm run dev vs npm run start: what is actually different](https://antoniojerkovic.com/blog/npm-run-dev-vs-npm-run-start)
+- [Testing the Claude extension in Chrome](https://antoniojerkovic.com/blog/testing-the-claude-extension-in-chrome)
+- [I Put My Search Engine on My Own PC and the Storefront on Vercel](https://antoniojerkovic.com/blog/search-engine-on-my-pc-storefront-on-vercel)
 <!-- BLOG-POST-LIST:END -->
 
 <sub><a href="https://antoniojerkovic.com/blog">See all posts →</a></sub>
