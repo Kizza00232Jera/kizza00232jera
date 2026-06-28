@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080C18,100:3B82F6&height=200&section=header&text=Antonio%20Jerkovi%C4%87&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Designer%20and%20developer%20in%20Copenhagen&descSize=18&descAlignY=58" width="100%" alt="Antonio Jerković" />
+# Antonio Jerković
+
+<a href="https://open.spotify.com/user/7yyfid31v3w8vqlyb9dgy93ch" target="_blank"><img src="https://spotify-now-playing-pi-two.vercel.app/api/orchestrator?background_type=blur_dark&show_status=true" alt="What I'm listening to on Spotify" width="430" /></a>
 
 <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=520&lines=Designer+and+developer+in+Copenhagen;Web+%C2%B7+Mobile+%C2%B7+Immersive+technology" alt="Typing tagline" /></a>
 
@@ -24,18 +26,27 @@ Lately I'm most into agentic development. I like keeping up with new AI models, 
 
 I write about what I build on the [blog](https://antoniojerkovic.com/blog), and the full case studies live on the [portfolio](https://antoniojerkovic.com).
 
+**Latest from the blog**
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<sub><a href="https://antoniojerkovic.com/blog">See all posts →</a></sub>
+
 ---
 
 ### Things I've built
 
-| Project | What it is | Built with |
-| :--- | :--- | :--- |
-| **[Portfolio](https://antoniojerkovic.com)** | My own site, where I showcase my projects and write blogs. Built with a CMS so I can add and update content myself. | `Next.js` `Sanity` `GSAP` `Lenis` |
-| **[NORDHEM](https://antoniojerkovic.com/projects/nordhem)** | A Nordic home-goods store built around real search engineering: Elasticsearch relevance tuning, semantic and hybrid search, and a Postgres fallback so the shop keeps working if search goes down. | `Next.js` `Elasticsearch` `PostgreSQL` |
-| **[Podcast Summarizer](https://antoniojerkovic.com/projects/podcast-summarizer)** | Paste a YouTube podcast link and get back a clean, structured article with sections, quotes, and tags. | `Next.js` `Supabase` `Perplexity AI` |
-| **[Even Steven](https://antoniojerkovic.com/projects/even-steven)** | Cross-platform app for splitting group expenses. Real-time sync, push notifications, deep-link invites, test-driven with Jest. | `React Native` `Expo` `Supabase` `Jest` |
-| **[Habit Flow](https://antoniojerkovic.com/projects/habit-flow)** | Offline-first habit tracker and weekly planner. No backend, all data stays on your device. Streaks, a monthly grid, installable. | `React` `TypeScript` `Vite` `PWA` |
-| **[My Recipes App](https://antoniojerkovic.com/projects/recipe-app)** | A recipe library with a built-in AI cook. Get meal ideas, import any recipe from a link or text, or generate a full one with a photo. Runs on your own API key. | `Next.js` `Drizzle` `Postgres` `Clerk` |
+<div align="center">
+
+<a href="https://github.com/Kizza00232Jera/antonio-portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kizza00232Jera&repo=antonio-portfolio&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/Kizza00232Jera/nordhem"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kizza00232Jera&repo=nordhem&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/Kizza00232Jera/podcast-blog-v2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kizza00232Jera&repo=podcast-blog-v2&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/Kizza00232Jera/even-steven"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kizza00232Jera&repo=even-steven&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/Kizza00232Jera/habitflow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kizza00232Jera&repo=habitflow&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/Kizza00232Jera/my-recipe-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kizza00232Jera&repo=my-recipe-app&theme=tokyonight&hide_border=true" /></a>
+
+</div>
 
 > Full case studies on the [portfolio](https://antoniojerkovic.com/projects).
 
@@ -43,41 +54,27 @@ I write about what I build on the [blog](https://antoniojerkovic.com/blog), and 
 
 ### Stack
 
-**Building**
-<p>
-<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="28">
-<img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" height="28">
-<img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/Expo-1B1F23?logo=expo&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="28">
-<img src="https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D" height="28">
-</p>
+<div align="center">
 
-**Styling & motion**
-<p>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/GSAP-0AE448?logo=greensock&logoColor=black" height="28">
-<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" height="28">
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="46" height="46" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="46" height="46" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="46" height="46" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="46" height="46" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="46" height="46" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="46" height="46" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="46" height="46" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="46" height="46" />
+<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="46" height="46" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" title="Supabase" alt="Supabase" width="46" height="46" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" title="Elasticsearch" alt="Elasticsearch" width="46" height="46" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" title="Vite" alt="Vite" width="46" height="46" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="46" height="46" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="46" height="46" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="46" height="46" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="46" height="46" />
 
-**Backend & data**
-<p>
-<img src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/Sanity-F03E2F?logo=sanity&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="28">
-</p>
-
-**Testing, design & tooling**
-<p>
-<img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=black" height="28">
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" height="28">
-</p>
+</div>
 
 ---
 
