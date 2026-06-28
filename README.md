@@ -1,28 +1,28 @@
 <div align="center">
 
-# Antonio Jerković
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080C18,100:3B82F6&height=200&section=header&text=Antonio%20Jerkovi%C4%87&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Designer%20and%20developer%20in%20Copenhagen&descSize=18&descAlignY=58" width="100%" alt="Antonio Jerković" />
 
-**Designer who learned to code. Developer who never stopped designing.**
-Some days it's one, some days it's the other.
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=520&lines=Designer+and+developer+in+Copenhagen;Web+%C2%B7+Mobile+%C2%B7+Immersive+technology" alt="Typing tagline" /></a>
 
-📍 Copenhagen, Denmark · 🌐 [antoniojerkovic.com](https://antoniojerkovic.com)
+<br>
 
-<a href="https://antoniojerkovic.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-080C18?style=for-the-badge&logo=vercel&logoColor=white" height="30"></a>
+[**Portfolio**](https://antoniojerkovic.com) · [**Projects**](https://antoniojerkovic.com/projects) · [**Blog**](https://antoniojerkovic.com/blog)
+
 <a href="https://www.linkedin.com/in/antonio00232" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"></a>
-<a href="https://github.com/kizza00232jera" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30"></a>
-<a href="https://www.instagram.com/antonio00232" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"></a>
 
 </div>
 
 ---
 
-### whoami
+### A bit about me and what I'm into
 
-I just wrapped a Master's in Design for Creative and Immersive Technology, after two degrees from UCN Aalborg (Multimedia Design, then Web Development). That path is the short version of a longer habit: I like sitting in the gap between how a thing looks and how it actually works, and refusing to pick a side.
+I like to build for the web, ship mobile apps, and work with immersive technology. I studied Multimedia Design and Web Development at UCN Aalborg, then a Master's in Design for Creative and Immersive Technology in Stockholm.
 
-These days I build for the web, ship the occasional mobile app, and poke at immersive tech (XR, Unity, creative coding) when something needs to exist in three dimensions instead of two. I care about the boring parts most people skip: real keyboard focus, motion that respects `prefers-reduced-motion`, load times, the details that decide whether something feels good or just looks good.
+I really enjoy going deep on specific parts of web development: search (like Elasticsearch), the different ways to store data, SEO, and unit testing. I like understanding how each piece actually works instead of just using it.
 
-I also write about what I build over on the [blog](https://antoniojerkovic.com/blog), usually the day after I finally understand the thing I was stuck on.
+Lately I'm most into agentic development. I like keeping up with new AI models, pushing what they can do, and getting the best out of them while staying efficient with token usage.
+
+I write about what I build on the [blog](https://antoniojerkovic.com/blog), and the full case studies live on the [portfolio](https://antoniojerkovic.com).
 
 ---
 
@@ -30,16 +30,16 @@ I also write about what I build over on the [blog](https://antoniojerkovic.com/b
 
 | Project | What it is | Built with |
 | :--- | :--- | :--- |
-| **[Portfolio](https://antoniojerkovic.com)** | This whole site. Scroll-driven, animation-heavy, and still fast. Headless content, custom cursor, the works. | `Next.js` `Sanity` `GSAP` `Lenis` |
-| **Even Steven** | Cross-platform app for splitting group expenses without the awkward math. Real-time sync, push notifications, deep-link invites. Test-driven from day one. | `React Native` `Expo` `Supabase` `Jest` |
-| **Habit Flow** | Offline-first habit tracker and weekly planner. No backend, no account, your data stays on your device. Streaks, a monthly grid, installable on your phone. | `React` `TypeScript` `Vite` `PWA` |
-| **Podcast Summarizer** | Paste a YouTube podcast link, get a structured article back: sections, pull quotes, tags. For people who want the ideas without the three hours. | `Next.js` `Supabase` `Perplexity AI` |
+| **[Portfolio](https://antoniojerkovic.com)** | This site. Scroll-driven and animation-heavy, with headless content and a custom cursor, and still fast. | `Next.js` `Sanity` `GSAP` `Lenis` |
+| **Even Steven** | Cross-platform app for splitting group expenses. Real-time sync, push notifications, deep-link invites, test-driven with Jest. | `React Native` `Expo` `Supabase` `Jest` |
+| **Habit Flow** | Offline-first habit tracker and weekly planner. No backend, all data stays on your device. Streaks, a monthly grid, installable. | `React` `TypeScript` `Vite` `PWA` |
+| **Podcast Summarizer** | Paste a YouTube podcast link, get back a structured article with sections, quotes, and tags. | `Next.js` `Supabase` `Perplexity AI` |
 
-> Full case studies (the why, not just the what) live on the [portfolio](https://antoniojerkovic.com/projects).
+> Full case studies on the [portfolio](https://antoniojerkovic.com/projects).
 
 ---
 
-### The stack I actually reach for
+### Stack
 
 **Building**
 <p>
@@ -87,21 +87,12 @@ I also write about what I build over on the [blog](https://antoniojerkovic.com/b
 
 <img width="98%" src="https://streak-stats.demolab.com/?user=kizza00232jera&theme=tokyonight&hide_border=true&date_format=M+j%5B%2C+Y%5D&mode=daily" alt="GitHub streak" />
 
-<!-- Contribution snake. Renders once the GitHub Action below is set up (see README notes). -->
-<img src="https://raw.githubusercontent.com/kizza00232jera/kizza00232jera/output/snake.svg" alt="Contribution snake animation" />
-
 </div>
 
 ---
 
-### Off the clock
-
-Football, chess, biking, and Counter-Strike matches I swear I should have won. I travel when I can, and I have strong, mostly indefensible opinions about TV show endings.
-
 <div align="center">
 
-<sub>Currently open to work. If you're building something that needs equal parts design taste and engineering, <a href="https://antoniojerkovic.com/#contact">say hi</a>.</sub>
-
-<img src="https://komarev.com/ghpvc/?username=kizza00232jera&style=flat&color=3FCF8E&label=Profile+views" alt="Profile views" />
+<sub>Currently open to work. <a href="https://antoniojerkovic.com/#contact">Get in touch.</a></sub>
 
 </div>
