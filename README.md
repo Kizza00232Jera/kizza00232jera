@@ -4,39 +4,17 @@
 
 <a href="https://open.spotify.com/user/7yyfid31v3w8vqlyb9dgy93ch" target="_blank"><img src="https://spotify-now-playing-pi-two.vercel.app/api/orchestrator?background_type=blur_dark&show_status=true" alt="What I'm listening to on Spotify" width="430" /></a>
 
-<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=520&lines=Designer+and+developer+in+Copenhagen;Web+%C2%B7+Mobile+%C2%B7+Immersive+technology" alt="Typing tagline" /></a>
+<img src="https://antoniojerkovic.com/github/dance.svg" alt="Dancing to whatever's playing" width="200" />
 
-<br>
-
-[**Portfolio**](https://antoniojerkovic.com) · [**Projects**](https://antoniojerkovic.com/projects) · [**Blog**](https://antoniojerkovic.com/blog)
-
-<a href="https://www.linkedin.com/in/antonio00232" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"></a>
+[**Portfolio**](https://antoniojerkovic.com) · [**Projects**](https://antoniojerkovic.com/projects) · [**Blog**](https://antoniojerkovic.com/blog) · [**LinkedIn**](https://www.linkedin.com/in/antonio00232)
 
 </div>
 
 ---
 
-### A bit about me and what I'm into
+### What I'm into
 
-I like to build for the web, ship mobile apps, and work with immersive technology. I studied Multimedia Design and Web Development at UCN Aalborg, then a Master's in Design for Creative and Immersive Technology in Stockholm.
-
-I really enjoy going deep on specific parts of web development: search (like Elasticsearch), the different ways to store data, SEO, and unit testing. I like understanding how each piece actually works instead of just using it.
-
-Lately I'm most into agentic development. I like keeping up with new AI models, pushing what they can do, and getting the best out of them while staying efficient with token usage.
-
-I write about what I build on the [blog](https://antoniojerkovic.com/blog), and the full case studies live on the [portfolio](https://antoniojerkovic.com).
-
-**Latest from the blog**
-
-<!-- BLOG-POST-LIST:START -->
-- [That sideways scroll on your phone? Find and fix it from the console](https://antoniojerkovic.com/blog/find-and-fix-horizontal-scroll-from-the-console)
-- [Core Web Vitals, PageSpeed, and SEO: a developer’s guide to web performance](https://antoniojerkovic.com/blog/core-web-vitals-pagespeed-seo-guide)
-- [npm run dev vs npm run start: what is actually different](https://antoniojerkovic.com/blog/npm-run-dev-vs-npm-run-start)
-- [Testing the Claude extension in Chrome](https://antoniojerkovic.com/blog/testing-the-claude-extension-in-chrome)
-- [I Put My Search Engine on My Own PC and the Storefront on Vercel](https://antoniojerkovic.com/blog/search-engine-on-my-pc-storefront-on-vercel)
-<!-- BLOG-POST-LIST:END -->
-
-<sub><a href="https://antoniojerkovic.com/blog">See all posts →</a></sub>
+I build for the web, ship mobile apps, and work with immersive tech. Lately I'm deep in agentic development: keeping up with new AI models, pushing what they can do, and staying lean on tokens. I also like going deep where it counts, search (Elasticsearch), data storage, SEO, and testing.
 
 ---
 
@@ -44,16 +22,21 @@ I write about what I build on the [blog](https://antoniojerkovic.com/blog), and 
 
 <div align="center">
 
-<a href="https://github.com/Kizza00232Jera/antonio-portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kizza00232Jera&repo=antonio-portfolio&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/Kizza00232Jera/nordhem"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kizza00232Jera&repo=nordhem&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/Kizza00232Jera/podcast-blog-v2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kizza00232Jera&repo=podcast-blog-v2&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/Kizza00232Jera/even-steven"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kizza00232Jera&repo=even-steven&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/Kizza00232Jera/habitflow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kizza00232Jera&repo=habitflow&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/Kizza00232Jera/my-recipe-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kizza00232Jera&repo=my-recipe-app&theme=tokyonight&hide_border=true" /></a>
+<a href="https://antoniojerkovic.com/projects"><img src="https://antoniojerkovic.com/api/github/projects.svg" alt="Featured live projects" width="600" /></a>
 
 </div>
 
-> Full case studies on the [portfolio](https://antoniojerkovic.com/projects).
+> Auto-synced from my portfolio. A project appears the moment it has both a live URL and a public repo. The dot is green when the site is up right now.
+
+---
+
+### Latest writing
+
+<div align="center">
+
+<a href="https://antoniojerkovic.com/blog"><img src="https://antoniojerkovic.com/api/github/blog.svg" alt="Latest blog posts" width="600" /></a>
+
+</div>
 
 ---
 
