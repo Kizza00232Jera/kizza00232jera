@@ -4,7 +4,7 @@
 
 <a href="https://open.spotify.com/user/7yyfid31v3w8vqlyb9dgy93ch" target="_blank"><img src="https://spotify-now-playing-pi-two.vercel.app/api/orchestrator?background_type=blur_dark&show_status=true" alt="What I'm listening to on Spotify" width="430" /></a>
 
-<img src="https://antoniojerkovic.com/github/dance.svg" alt="Dancing to whatever's playing" width="200" />
+<img src="https://antoniojerkovic.com/github/dance.svg?v=2" alt="Dancing to whatever's playing" width="200" />
 
 [**Portfolio**](https://antoniojerkovic.com) · [**Projects**](https://antoniojerkovic.com/projects) · [**Blog**](https://antoniojerkovic.com/blog) · [**LinkedIn**](https://www.linkedin.com/in/antonio00232)
 
@@ -24,9 +24,9 @@ I build for the web, ship mobile apps, and work with immersive tech. Lately I'm 
 
 <a href="https://antoniojerkovic.com/projects"><img src="https://antoniojerkovic.com/api/github/projects.svg" alt="Featured live projects" width="600" /></a>
 
-</div>
+<sub>Open a project: <a href="https://antoniojerkovic.com/projects/nordhem">NORDHEM</a> · <a href="https://antoniojerkovic.com/projects/podcast-summarizer">Podcast Summarizer</a> · <a href="https://antoniojerkovic.com/projects/habit-flow">Habit Flow</a> · <a href="https://antoniojerkovic.com/projects/recipe-app">My Recipes App</a> · <a href="https://antoniojerkovic.com/projects/even-steven">Even Steven</a></sub>
 
-> Auto-synced from my portfolio. A project appears the moment it has both a live URL and a public repo. The dot is green when the site is up right now.
+</div>
 
 ---
 
@@ -34,7 +34,7 @@ I build for the web, ship mobile apps, and work with immersive tech. Lately I'm 
 
 <div align="center">
 
-<a href="https://antoniojerkovic.com/blog"><img src="https://antoniojerkovic.com/api/github/blog.svg" alt="Latest blog posts" width="600" /></a>
+<a href="https://antoniojerkovic.com/blog"><img src="https://antoniojerkovic.com/api/github/blog.svg?v=2" alt="Latest blog posts" width="600" /></a>
 
 </div>
 
@@ -47,7 +47,7 @@ I build for the web, ship mobile apps, and work with immersive tech. Lately I'm 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="46" height="46" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="46" height="46" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="46" height="46" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="46" height="46" />&nbsp;&nbsp;
+<img src="https://antoniojerkovic.com/github/claude.svg" title="Claude" alt="Claude" width="46" height="46" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="46" height="46" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="46" height="46" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="46" height="46" />&nbsp;&nbsp;
