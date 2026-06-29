@@ -34,7 +34,7 @@ I build for the web, ship mobile apps, and work with immersive tech. Lately I'm 
 
 <div align="center">
 
-<a href="https://antoniojerkovic.com/blog"><img src="https://antoniojerkovic.com/api/github/blog.svg?v=2" alt="Latest blog posts" width="600" /></a>
+<a href="https://antoniojerkovic.com/blog"><img src="https://antoniojerkovic.com/api/github/blog.svg?v=3" alt="Latest blog posts" width="600" /></a>
 
 </div>
 
